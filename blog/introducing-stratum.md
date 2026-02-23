@@ -254,4 +254,4 @@ Phase 2 adds: `.stratum.yaml` IR format, MCP server, TypeScript library, `@agent
 
 Phase 3 adds: `orchestrate`/`adapt`/`reflect` (LLM-driven dynamic orchestration), Temporal integration (durable execution), Ray distribution, DSPy prompt optimization.
 
-The specification is at [SPEC.md](../SPEC.md). Questions and feedback welcome in [Discussions](https://github.com/regression-io/stratum-spec/discussions).
+The specification is at [SPEC.md](https://github.com/regression-io/stratum-spec/blob/main/SPEC.md). Questions and feedback welcome in [Discussions](https://github.com/regression-io/stratum-spec/discussions).

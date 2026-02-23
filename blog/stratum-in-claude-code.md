@@ -213,6 +213,6 @@ This isn't a security model. It's an alignment model. And it works — not becau
 
 The MCP server ships with Phase 2 of the Stratum library. The Python library (Phase 1) is the prerequisite — the MCP server is a thin wrapper over it.
 
-The spec for exactly what the runtime enforces is at [SPEC.md](../SPEC.md). The detailed walkthrough of the library design is at [introducing-stratum.md](introducing-stratum.md).
+The spec for exactly what the runtime enforces is at [SPEC.md](https://github.com/regression-io/stratum-spec/blob/main/SPEC.md). The detailed walkthrough of the library design is at [introducing-stratum.md](https://github.com/regression-io/stratum-spec/blob/main/blog/introducing-stratum.md).
 
 If you're using Claude Code and want to track where this goes: [watch the repo](https://github.com/regression-io/stratum-spec) and drop questions in [Discussions](https://github.com/regression-io/stratum-spec/discussions). The spec is a draft — it gets better from people who've actually hit these problems.

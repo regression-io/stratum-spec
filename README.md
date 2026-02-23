@@ -35,10 +35,10 @@ LLM calls in production have a few recurring problems:
 
 This repository contains the **v1 specification**. The reference implementation is in development.
 
-- [`SPEC.md`](SPEC.md) — the normative specification
-- [`blog/introducing-stratum.md`](blog/introducing-stratum.md) — detailed walkthrough of the design
-- [`blog/stratum-in-claude-code.md`](blog/stratum-in-claude-code.md) — how Stratum works as a Claude Code execution runtime
-- [`blog/stratum-in-codex.md`](blog/stratum-in-codex.md) — how Stratum works as a Codex execution runtime
+- [`SPEC.md`](https://github.com/regression-io/stratum-spec/blob/main/SPEC.md) — the normative specification
+- [`blog/introducing-stratum.md`](https://github.com/regression-io/stratum-spec/blob/main/blog/introducing-stratum.md) — detailed walkthrough of the design
+- [`blog/stratum-in-claude-code.md`](https://github.com/regression-io/stratum-spec/blob/main/blog/stratum-in-claude-code.md) — how Stratum works as a Claude Code execution runtime
+- [`blog/stratum-in-codex.md`](https://github.com/regression-io/stratum-spec/blob/main/blog/stratum-in-codex.md) — how Stratum works as a Codex execution runtime
 
 **Feedback:** Use [GitHub Discussions](https://github.com/regression-io/stratum-spec/discussions) to ask questions, propose changes, or discuss the design. Use [Issues](https://github.com/regression-io/stratum-spec/issues) for specific bugs or gaps in the spec.
 
@@ -129,7 +129,7 @@ async def process_ticket(ticket: SupportTicket) -> Resolution:
 
 ## Specification
 
-See [`SPEC.md`](SPEC.md) for the complete normative specification including:
+See [`SPEC.md`](https://github.com/regression-io/stratum-spec/blob/main/SPEC.md) for the complete normative specification including:
 
 - Full type system with schema compilation rules and content hash algorithm
 - Exact decorator signatures and rules
