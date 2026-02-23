@@ -215,4 +215,4 @@ The MCP server ships with Phase 2 of the Stratum library. The Python library (Ph
 
 The spec for exactly what the runtime enforces is at [SPEC.md](../SPEC.md). The detailed walkthrough of the library design is at [introducing-stratum.md](introducing-stratum.md).
 
-If you're using Claude Code and want to track where this goes: [watch this repo](../../) and drop questions in [Discussions](../../discussions). The spec is a draft — it gets better from people who've actually hit these problems.
+If you're using Claude Code and want to track where this goes: [watch the repo](https://github.com/regression-io/stratum-spec) and drop questions in [Discussions](https://github.com/regression-io/stratum-spec/discussions). The spec is a draft — it gets better from people who've actually hit these problems.

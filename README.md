@@ -39,7 +39,7 @@ This repository contains the **v1 specification**. The reference implementation 
 - [`blog/introducing-stratum.md`](blog/introducing-stratum.md) — detailed walkthrough of the design
 - [`blog/stratum-in-claude-code.md`](blog/stratum-in-claude-code.md) — how Stratum works as a Claude Code execution runtime
 
-**Feedback:** Use [GitHub Discussions](../../discussions) to ask questions, propose changes, or discuss the design. Use [Issues](../../issues) for specific bugs or gaps in the spec.
+**Feedback:** Use [GitHub Discussions](https://github.com/regression-io/stratum-spec/discussions) to ask questions, propose changes, or discuss the design. Use [Issues](https://github.com/regression-io/stratum-spec/issues) for specific bugs or gaps in the spec.
 
 ---
 
