@@ -33,9 +33,10 @@ LLM calls in production have a few recurring problems:
 
 ## Status
 
-This repository contains the **v1 specification**. The reference implementation is in development.
+This repository contains the **v1 specification**. The reference implementation is **[regression-io/stratum](https://github.com/regression-io/stratum)** — Track 1 (Python library) is implemented and tested.
 
 - [`SPEC.md`](https://github.com/regression-io/stratum-spec/blob/main/SPEC.md) — the normative specification
+- **[regression-io/stratum](https://github.com/regression-io/stratum)** — Python reference implementation
 - [`blog/introducing-stratum.md`](https://github.com/regression-io/stratum-spec/blob/main/blog/introducing-stratum.md) — detailed walkthrough of the design
 - [`blog/stratum-in-claude-code.md`](https://github.com/regression-io/stratum-spec/blob/main/blog/stratum-in-claude-code.md) — how Stratum works as a Claude Code execution runtime
 - [`blog/stratum-in-codex.md`](https://github.com/regression-io/stratum-spec/blob/main/blog/stratum-in-codex.md) — how Stratum works as a Codex execution runtime
@@ -123,7 +124,7 @@ async def process_ticket(ticket: SupportTicket) -> Resolution:
 | `quorum` | Run N times, require majority agreement |
 | `stratum.debate` | Adversarial multi-agent synthesis with convergence detection |
 | Full observability | Structured trace record on every call, OTel export built-in |
-| One dependency | `litellm` only. No OTel SDK. Pydantic optional. |
+| Two dependencies | `litellm` + `pydantic`. No OTel SDK. |
 
 ---
 
