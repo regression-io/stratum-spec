@@ -1,5 +1,9 @@
 # Changelog
 
+## [Unreleased]
+
+- License changed from Apache 2.0 to PolyForm Noncommercial 1.0.0. Free for personal and other noncommercial use. Commercial use requires a license from SmartMemory (help@smartmemory.ai). Earlier versions stay Apache 2.0.
+
 ## [1.0.0] - 2026-02-23
 
 Initial draft specification.

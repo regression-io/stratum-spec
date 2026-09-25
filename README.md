@@ -6,3 +6,7 @@ The spec, blog posts, and reference implementation have moved to **[regression-i
 - [`blog/introducing-stratum.md`](https://github.com/regression-io/stratum/blob/main/blog/introducing-stratum.md) — design walkthrough
 - [`blog/stratum-in-claude-code.md`](https://github.com/regression-io/stratum/blob/main/blog/stratum-in-claude-code.md) — Stratum as a Claude Code execution runtime
 - [`blog/stratum-in-codex.md`](https://github.com/regression-io/stratum/blob/main/blog/stratum-in-codex.md) — Stratum as a Codex execution runtime
+
+## License
+
+[PolyForm Noncommercial 1.0.0](LICENSE). Free for personal and other noncommercial use. Commercial use requires a license: help@smartmemory.ai
