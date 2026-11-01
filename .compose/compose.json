@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "capabilities": {
+    "stratum": false,
+    "lifecycle": true
+  },
+  "paths": {
+    "docs": "docs",
+    "features": "docs/features",
+    "journal": "docs/journal",
+    "context": "docs/context",
+    "ideabox": "docs/product/ideabox.md"
+  }
+}
